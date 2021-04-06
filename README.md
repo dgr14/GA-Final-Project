@@ -10,3 +10,7 @@ My main goal in this project is to display multiple types of data in the same re
 - As a User, I will start with $2000 in virtual money to use in 'wagers'.
 - As a User I would like to be able to make a wager against another user on the outcome of am upcoming match using the virtual currency
 - As a User, I want to access all the teams in the respective league and see basic information about the club, with the option to go to an expanded page with more information. 
+
+# WIRE FRAMES:
+
+![alt text](src/images/wireframes/Wireframe.png)
