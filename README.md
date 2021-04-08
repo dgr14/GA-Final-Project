@@ -14,3 +14,14 @@ My main goal in this project is to display multiple types of data in the same re
 ## WIRE FRAMES:
 
 <img width="1046" alt="Screen Shot 2021-04-06 at 12 05 43 PM" src="https://user-images.githubusercontent.com/47332415/113789169-e05bc380-96fb-11eb-9246-e396cc1dc5ab.png">
+
+
+## TECHNOLGIES USED:
+- Mongoose
+- Express
+- React
+- Node
+#### NPM PACKAGES:
+- Styled Components
+- react-icons
+- react-scroll
