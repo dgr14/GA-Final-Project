@@ -1,0 +1,28 @@
+.wrapper{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.teamMap{
+    width: 90vw;
+    max-height: 860px;
+    overflow: auto;
+    /* margin: 5px 0px 10px 10px;
+    padding: 10px 10px 0px 0px; */
+}
+.teamTitleHolder{
+    height: 2em;
+    text-align: center;
+    /* margin: 15px 0; */
+}
+.teamTitleHolder h5 {
+    font-size: 2em;   
+    text-decoration: underline;
+    color: white;
+}
+/* .wrapper{
+    height: auto;
+} */

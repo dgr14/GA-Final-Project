@@ -1,0 +1,25 @@
+{
+  "name": "GA-Final-Project",
+  "version": "1.0.0",
+  "description": "## Description: My main goal in this project is to display multiple types of data in the same responsive single page application. For an example I am going to focus on data from my favorite sport to watch, Soccer. I am also a huge Liverpool FC fan so I am likely to focus on the Premier league and the Champions League, however I am hoping I will be able to structure my components in a way that allows me to have a drop down with the seeded data from the leagues. I am going to forgo comprehensive user auth so that I can use my project time to focus on features, functionality  and the front end design. One's favorite team will have a visual effect on the app as the colors will update after a favorite team is selected. I am hoping to add the ability for users to be able to wager on the outcome of a specific match. One person bets a certain amount that one team will win, and the other user then agrees to the amount thinking that their team will win. I would like to add a section to display news for ones favorite club, and if they chose none, it will display general premier league news. I am hoping to add some basic animations and things of that nature to add a modern feel.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "react-router-dom": "^5.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgr14/GA-Final-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgr14/GA-Final-Project/issues"
+  },
+  "homepage": "https://github.com/dgr14/GA-Final-Project#readme"
+}
